@@ -10,16 +10,12 @@
 An interactive web application built with Streamlit for analyzing customer churn patterns and predicting churn probability using machine learning. This dashboard provides actionable insights to help businesses reduce customer attrition.
 
 ## 🚀 Live Demo
+- ## Step 1: Open PowerShell as Administrator (recommended)
+- ## Right-click PowerShell icon and select "Run as Administrator"
 
-- **Streamlit App**: [Coming Soon - Deploy to Streamlit Cloud]
-- # Step 1: Open PowerShell as Administrator (recommended)
-# Right-click PowerShell icon and select "Run as Administrator"
+- ## Step 2: Navigate to your project folder- cd "C:\Users\Tejaswini Singh\Downloads\Customer Churn Analysis & Prediction Dashboard"
 
-# Step 2: Navigate to your project folder
-cd "C:\Users\Tejaswini Singh\Downloads\Customer Churn Analysis & Prediction Dashboard"
-
-# Step 5: Run the Streamlit application
-streamlit run app.py
+- ## Step 3: Run the Streamlit application - streamlit run app.py
 
 - **Portfolio**: [https://tejaswinisingh-myportfolio-website.netlify.app/](https://tejaswinisingh-myportfolio-website.netlify.app/)
 
