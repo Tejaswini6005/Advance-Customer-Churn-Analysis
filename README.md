@@ -12,9 +12,17 @@ An interactive web application built with Streamlit for analyzing customer churn
 ## 🚀 Live Demo
 
 - **Streamlit App**: [Coming Soon - Deploy to Streamlit Cloud]
+- # Step 1: Open PowerShell as Administrator (recommended)
+# Right-click PowerShell icon and select "Run as Administrator"
+
+# Step 2: Navigate to your project folder
+cd "C:\Users\Tejaswini Singh\Downloads\Customer Churn Analysis & Prediction Dashboard"
+
+# Step 5: Run the Streamlit application
+streamlit run app.py
+
 - **Portfolio**: [https://tejaswinisingh-myportfolio-website.netlify.app/](https://tejaswinisingh-myportfolio-website.netlify.app/)
-- **Tableau Public**: [Your Tableau Profile]
-- **Power BI**: [Your Power BI Workspace]
+
 
 ## 📈 Project Overview
 
@@ -150,13 +158,12 @@ Tejaswini Singh
 
 📧 Email: stejaswini031@gmail.com
 
-💼 Portfolio: https://tejaswinisingh-myportfolio-website.netlify.app/
+💼 Portfolio: (https://tejaswinisingh-myportfolio-website.netlify.app/)
 
-🔗 LinkedIn: [Your LinkedIn Profile]
+🔗 LinkedIn: (https://www.linkedin.com/in/tejaswini-singh-94bb731b6/)
 
-📊 Tableau Public: [Your Tableau Profile]
+📊 Tableau Public: (https://public.tableau.com/app/profile/tejaswini.singh5659/vizzes)
 
-🎯 Power BI: [Your Power BI Workspace]
 
 🙏 Acknowledgments
 Dataset Source: IBM Telco Customer Churn Dataset
